@@ -1,0 +1,371 @@
+
+================================================================================
+FILE: BYM_Technology_NIHAI_SUNUM.docx
+================================================================================
+
+--- PARAGRAPHS (41) ---
+
+[1] (Title): KALP KRİZİNDE YAPAY ZEKA ÇÖZÜMLERİ
+
+[2] (Normal): Proaktif Kardiyovasküler Risk Yönetimi İçin AI-Destekli Karar Destek Sistemi
+
+[3] (Normal): BYM TECHNOLOGY HEALTH CENTER
+
+[4] (Normal): TÜBİTAK BİGG 1812 Ürünleştirme ve Ticarileştirme Desteği
+
+[5] (Normal): Kasım 2025
+
+[6] (Heading 1): 1. PROBLEMİN TANIMI
+
+[7] (Normal): Kardiyovasküler hastalıklar küresel ölçekte 1 numaralı ölüm nedenidir (WHO, 2024). Mevcut sağlık sistemleri reaktif (kriz sonrası) müdahale yaparken, proaktif risk yönetimi eksikliği kritik kayıplara 
+
+[8] (Heading 2): Sonuç
+
+[9] (Normal): Erken tanı ve proaktif risk yönetimi için yapay zeka destekli, çok katmanlı bir sistem kritik ihtiyaçtır. Kriz öncesi müdahale hayat kurtarır ve sağlık maliyetlerini düşürür.
+
+[10] (Heading 1): 2. ÇÖZÜM: ÇOK KATMANLI AI SİSTEMİ
+
+[11] (Normal): BYM Technology'nin sistemi, üç veri katmanını (statik+vital+EKG) eş zamanlı analiz ederek proaktif risk değerlendirmesi yapar. SHAP/LIME ile açıklanabilir sonuçlar sunar. Sistem, kriz öncesi erken uya
+
+[12] (Normal): Teknik Altyapı: Python, TensorFlow, Keras | HL7/FHIR uyumlu | Modüler mimari
+
+[13] (Heading 1): 3. PROJE TAKVİMİ VE MİL TAŞLARI
+
+[14] (Heading 1): 4. PAZAR ANALİZİ
+
+[15] (Heading 2): Müşteri Segmentleri
+
+[16] (Heading 1): 5. REKABET ÜSTÜNLÜĞÜ
+
+[17] (Heading 1): 6. GELİR MODELİ (5 YIL)
+
+[18] (Normal): Birim maliyet: ₺4,800 | Brüt kar: %108 | Başa baş: Yıl 3 | Hedef: 400 hastane
+
+[19] (Heading 1): 7. KLİNİK VALİDASYON VE DANIŞMANLIK
+
+[20] (Normal): ✓ 500 hasta verisi | ✓ ROC-AUC >0.90 | ✓ 3 pilot hastane | ✓ 60 gün gerçek test
+
+[21] (Heading 1): 8. KURUMSAL İŞBİRLİKLERİ VE DESTEKLER
+
+[22] (Normal): ✓ İyi niyet mektupları ekli | ✓ MoU imza sürecinde | ✓ Pilot uygulamalar hazır
+
+[23] (Heading 1): 9. KAYNAKÇA
+
+[24] (List Bullet): WHO (2024). Cardiovascular diseases fact sheet. World Health Organization.
+
+[25] (List Bullet): TÜİK (2024). Ölüm nedeni istatistikleri. Türkiye İstatistik Kurumu.
+
+[26] (List Bullet): Newman-Toker, D.E. et al. (2024). Diagnostic errors in cardiovascular emergencies. JAMA Internal Medicine.
+
+[27] (List Bullet): Grand View Research (2024). Artificial Intelligence in Healthcare Market Size & Trends.
+
+[28] (List Bullet): Fortune Business Insights (2024). Healthcare AI Market Growth Analysis.
+
+[29] (List Bullet): McKinsey & Company (2024). The State of AI in Healthcare.
+
+[30] (List Bullet): Statista (2024). Healthcare Technology Market in Turkey.
+
+[31] (List Bullet): IMARC Group (2024). Turkey Healthcare Market Report.
+
+[32] (List Bullet): MarketsandMarkets (2024). Medical Imaging AI Market Forecast.
+
+[33] (List Bullet): T.C. Sağlık Bakanlığı (2024). Sağlık İstatistikleri Yıllığı.
+
+[34] (Normal): BYM TECHNOLOGY
+
+[35] (Normal): HEALTH CENTER
+
+[36] (Normal): 📧 bymtechnology3@gmail.com
+
+[37] (Normal): 📍 İstanbul Topkapı Üniversitesi
+
+[38] (Normal): Teknoloji Geliştirme Bölgesi
+
+[39] (Normal): TÜBİTAK BİGG 1812 Programı
+
+[40] (Normal): Ürünleştirme ve Ticarileştirme Desteği
+
+[41] (Normal): Kasım 2025
+
+--- TABLES (9) ---
+
+Table 1 (2 rows):
+  Küresel Etki | Türkiye | Temel Sorunlar
+  17.9M
+yıllık ölüm
+Tüm ölümlerin %32'si (WHO, 2024) | 489K
+yıllık ölüm
+1 numaralı ölüm sebebi (TÜİK, 202 | • Tanı hatası %10-12
+• Manuel süreçler
+• Veri ente
+
+Table 2 (5 rows):
+  Modül | Teknoloji | Performans | Sonuç
+  Demografik Risk | Bayes + AutoML | %88+ | Nedensel risk skoru
+  EKG Analizi | CNN+LSTM+Attention | %90+ (7 tip) | <2sn gerçek zamanlı
+  Koroner Görüntü | 3D U-Net | %87+ Dice | Oto tıkanıklık tespiti
+  Açıklanabilir AI | SHAP + LIME | Şeffaf | Görsel gerekçelendirme
+
+Table 3 (4 rows):
+  Faz | Süre | Kilometre Taşı | Çıktılar
+  FAZ 1 | Ay 1-12 | Sistem Geliştirme | ✓ Algoritma tamamlama
+✓ Prototip cihaz
+✓ İlk valid
+  FAZ 2 | Ay 13-24 | Pilot Uygulamalar | ✓ 3 hastane pilotu
+✓ SaaS platformu
+✓ İlk müşteril
+  FAZ 3 | Ay 25+ | Ölçeklendirme | ✓ CE/FDA süreçleri
+✓ Mobil uygulama
+✓ Uluslararası
+
+Table 4 (1 rows):
+  KÜRESEL
+$32.1B
+2029 projeksiyon
+CAGR %14.6
+(McKins | TÜRKİYE
+$8.2B
+Sağlık Teknolojileri
+AI Payı %3.1
+(S | HEDEF
+372
+Özel Hastane
+2,840 Kardiyolog
+
+Table 5 (4 rows):
+  Paket | Yatak | Hedef | Fiyat/Ay
+  Temel | 50-150 | 150 | ₺10,000
+  Profesyonel | 150-400 | 180 | ₺20,000
+  Kurumsal | 400+ | 70 | ₺35,000
+
+Table 6 (6 rows):
+  Özellik | BYM Tech | CureMD | Merge | Cardisio
+  Kriz Öncesi | ✓ VAR | ✗ YOK | ✗ YOK | Kısıtlı
+  Çok Katman | 3 Katman | EHR | 2 Katman | Tek
+  Açıklanabilir | SHAP+LIME | Yok | Yok | Yok
+  Yerelleşme | Türkiye | Global | Global | Global
+
+Table 7 (6 rows):
+  Gelir Kaynağı | Birim Fiyat | Toplam Gelir
+  SaaS Abonelik | ₺10K-35K/ay | ₺410M
+  Entegrasyon | ₺120K-350K | ₺30M
+  Eğitim | ₺6.5K/kişi | ₺8M
+  Veri Analizi | ₺12K-20K/ay | ₺12M
+
+Table 8 (1 rows):
+  👨‍⚕️
+
+Uzm. Dr. Mahsa Sedaghatıhagh
+Özel Doğa Hospi | 👨‍⚕️
+
+Uzm. Dr. Asil İşçi
+İSTÜN Kolan Hospital
+
+Kli
+
+Table 9 (4 rows):
+  Kurum | Kategori | Destek Kapsamı
+  İstanbul Topkapı Üniversitesi | Akademik | • Ar-Ge desteği
+• EKG modeli araştırmaları
+• Akade
+  Özel Doğa Hospital | Klinik | • Klinik validasyon
+• Hasta verisi erişimi
+• Pilot
+  İSTÜN Kolan Hospital | Klinik | • Girişimsel validasyon
+• Gerçek ortam testi
+• Uzm
+
+================================================================================
+FILE: BYM_Technology_TUBITAK_Basvuru_FINAL.docx
+================================================================================
+ERROR: 'NoneType' object has no attribute 'name'
+
+================================================================================
+FILE: Kalp_Krizinde_Yapay_Zeka_Cozumleri_Final (1).docx
+================================================================================
+
+--- PARAGRAPHS (91) ---
+
+[1] (Title): KALP KRİZİNDE YAPAY ZEKA ÇÖZÜMLERİ
+
+[2] (Normal): Kardiyovasküler Hastalıklarda Erken Tanı ve Risk Değerlendirme Sistemi
+
+[3] (Heading 1): 1. Problem: Kritik Bir Sağlık Sorunu
+
+[4] (Normal): Kardiyovasküler hastalıklar, küresel ölçekte en büyük sağlık tehdidi olmaya devam etmektedir. Dünya Sağlık Örgütü'nün 2024 verilerine göre, her yıl yaklaşık 17,9 milyon insan kalp ve damar hastalıklar
+
+[5] (Normal): Bu istatistiklerin arkasında yatan temel sorun, mevcut sağlık sistemlerinin büyük ölçüde reaktif, yani olay gerçekleştikten sonra müdahale eden bir yapıda olmasıdır. Hastalar genellikle kalp krizi bel
+
+[6] (Normal): Mevcut tanı süreçlerinde karşılaşılan temel zorluklar şu şekilde özetlenebilir:
+
+[7] (List Bullet): Teşhis Hataları: Kardiyoloji alanında yapılan araştırmalar, tanı hatası oranının %10-12 seviyesinde olduğunu göstermektedir. Newman-Toker ve arkadaşlarının 91.755 hastayı kapsayan çalışmasında, miyoka
+
+[8] (List Bullet): Veri Entegrasyonu Eksikliği: Hastanelerde farklı sistemlerden toplanan veriler (EKG cihazları, vital parametre monitörleri, laboratuvar sonuçları) genellikle ayrı platformlarda bulunmakta ve birlikte 
+
+[9] (List Bullet): Manuel Süreçler ve Zaman Kaybı: EKG analizleri ve risk değerlendirmeleri büyük ölçüde manuel yapılmakta, bu da hem zaman kaybına hem de insan kaynaklı hatalara yol açmaktadır. Özellikle kardiyolog bul
+
+[10] (List Bullet): Subjektif Değerlendirmeler: Mevcut risk skorlama sistemleri (Framingham, SCORE vb.) genellikle sınırlı sayıda parametre kullanmakta ve klinisyenin deneyimine bağlı subjektif yorumlamalar gerektirmekte
+
+[11] (Heading 1): 2. Önerilen Çözüm: Çok Katmanlı Yapay Zeka Sistemi
+
+[12] (Normal): BYM Technology tarafından geliştirilen "Kalp Krizinde Yapay Zeka Çözümleri" sistemi, yukarıda belirtilen problemlere kapsamlı ve yenilikçi bir yanıt sunmaktadır. Sistemin temel felsefesi, reaktif deği
+
+[13] (Normal): Sistem, üç farklı veri katmanını eşzamanlı olarak analiz eden çok katmanlı bir yapay zeka mimarisine dayanmaktadır:
+
+[14] (Heading 2): 2.1. Demografik Risk Analizi Modülü
+
+[15] (Normal): Bu modül, hastanın statik verilerini (yaş, cinsiyet, aile öyküsü, sigara kullanımı, BMI, kronik hastalıklar vb.) Hiyerarşik Bayes Ağları ve Otomatik Makine Öğrenmesi (AutoML) hibrit sistemi ile analiz
+
+[16] (Heading 2): 2.2. EKG Sinyal Analizi Modülü
+
+[17] (Normal): Elektrokardiyografi (EKG) sinyalleri, kalbin elektriksel aktivitesini göstermesi açısından kardiyovasküler tanıda vazgeçilmezdir. Ancak EKG yorumlaması deneyim gerektiren, zaman alan ve hata yapılması
+
+[18] (Heading 2): 2.3. Koroner Görüntü Analizi Modülü
+
+[19] (Normal): Üçüncü katman, koroner anjiyografi görüntülerinin otomatik analizi üzerine kuruludur. 3D U-Net segmentasyon algoritması ve fizik-güdümlü hesaplama yöntemleri kullanılarak, damar tıkanıklıkları otomati
+
+[20] (Heading 2): 2.4. Karar Füzyon ve Açıklanabilir Yapay Zeka
+
+[21] (Normal): Üç modülden gelen çıktılar, Ensemble Learning yöntemiyle birleştirilmekte ve nihai risk skoru hesaplanmaktadır. Ancak sistemin en önemli özelliklerinden biri, sadece bir risk skoru vermekle kalmayıp, 
+
+[22] (Heading 1): 3. Teknik Altyapı ve Yenilikçi Yönler
+
+[23] (Normal): Sistem, Python programlama dili kullanılarak geliştirilmekte olup TensorFlow ve Keras gibi endüstri standardı yapay zeka kütüphanelerini kullanmaktadır. Yazılım mimarisi tamamen modüler olarak tasarla
+
+[24] (Normal): Sistemin piyasadaki benzerlerinden ayrışan temel özellikleri şunlardır:
+
+[25] (List Bullet): Proaktif Yaklaşım: Piyasadaki çoğu sistem kriz sonrası değerlendirme yaparken, bu sistem kriz öncesi erken uyarıya odaklanmaktadır.
+
+[26] (List Bullet): Çok Modaliteli Analiz: Tek bir veri türüne (sadece EKG veya sadece laboratuvar) odaklanan sistemlerin aksine, üç farklı veri katmanını eş zamanlı analiz etmektedir.
+
+[27] (List Bullet): Yerelleştirilmiş Modeller: Türk hasta popülasyonuna özel eğitilmiş modeller sayesinde, uluslararası çözümlere göre daha yüksek doğruluk sağlanmaktadır.
+
+[28] (List Bullet): Açıklanabilirlik: Kara kutu AI çözümlerinin aksine, her kararın gerekçesini açıklayabilen şeffaf bir sistemdir.
+
+[29] (List Bullet): Donanım Bağımsızlığı: SaaS (Software as a Service) modeli ile sunulan sistem, hastanelerin mevcut cihazlarıyla çalışabilmekte, ek donanım yatırımı gerektirmemektedir.
+
+[30] (List Bullet): Gerçek Zamanlı Performans: 5 saniye altında karar desteği sunarak acil durumlarda kritik zaman kazandırmaktadır.
+
+[31] (Heading 1): 4. Hedef Pazar ve Müşteri Profili
+
+[32] (Normal): Sistemin birincil hedef pazarı, dijital dönüşüm yatırımları yapan özel sağlık kuruluşlarıdır. Türkiye'de toplam 1.515 hastanenin 595'i özel statüdedir ve bunlardan dijital teknoloji altyapısı bulunan 
+
+[33] (Normal): Global sağlık teknolojileri pazarı hızlı bir büyüme göstermektedir. 2024 itibarıyla kardiyolojide yapay zeka destekli karar sistemleri pazarı yıllık yaklaşık %25 büyüme göstermektedir. Türkiye sağlık 
+
+[34] (Normal): İlk aşamada hedeflenen müşteri segmenti şu özelliklere sahiptir:
+
+[35] (List Bullet): Teknoloji yatırımlarına açık özel hastane zincirleri ve büyük kardiyoloji merkezleri
+
+[36] (List Bullet): Yıllık minimum 2.000 kardiyoloji hastası trafiği olan kurumlar
+
+[37] (List Bullet): Mevcut HBYS altyapısına sahip ve entegrasyona hazır kuruluşlar
+
+[38] (List Bullet): Kalite standartlarını ve hasta güvenliğini önceliklendiren sağlık grupları
+
+[39] (Normal): İkinci fazda ise, sistem mobil uygulama ve giyilebilir cihaz entegrasyonları ile bireysel kullanıcılara da sunulması planlanmaktadır. 45-75 yaş aralığında kardiyovasküler risk grubunda yer alan yaklaş
+
+[40] (Heading 1): 5. Başarı Kriterleri ve Rekabet Üstünlüğü
+
+[41] (Normal): Sistemin başarısı, hem teknik performans metrikleri hem de klinik etki göstergeleri ile ölçülecektir. Proje, sağlık teknolojileri alanında yüksek standartlara ulaşmayı ve piyasadaki mevcut çözümlerden
+
+[42] (Heading 2): 5.1. Hedef Performans Metrikleri
+
+[43] (Normal): Akıllı Triyaj Modülü: %92+ doğruluk, 5 saniye altında karar.
+
+[44] (Normal): Demografik Risk: %88+ doğruluk, Türk popülasyonuna özel %15-20 daha yüksek performans.
+
+[45] (Normal): EKG Analizi: 7 aritmi tipinde %90+ doğruluk, AF tespitinde %95+ duyarlılık.
+
+[46] (Normal): Koroner Görüntü: %87+ Dice katsayısı, otomatik tıkanıklık tespiti.
+
+[47] (Heading 2): 5.2. Hedef Klinik Etkiler
+
+[48] (List Bullet): Tanı süresi: 12-15 dk → 2-3 dk (%80 azalma)
+
+[49] (List Bullet): İnvaziv anjiyografi: %30-40 azalma
+
+[50] (List Bullet): Hasta akışı: %25 artış
+
+[51] (List Bullet): Görüntü değerlendirme: 45 dk → 10 dk
+
+[52] (Heading 2): 5.3. Teknik Doğrulama ve Rekabet Üstünlüğü
+
+[53] (Normal): Doğrulama: 500 hasta verisi, ROC-AUC >0.90, üç pilot hastanede 60 gün test, %98+ sistem kararlılığı.
+
+[54] (Normal): Rekabet Avantajları: Proaktif yaklaşım (kriz öncesi), çok katmanlı veri analizi (statik+vital+EKG), açıklanabilir AI (SHAP/LIME), yerelleştirilmiş modeller (%15-20 daha yüksek doğruluk), %60 maliyet a
+
+[55] (Heading 1): 6. Klinik Validasyon ve Danışmanlık
+
+[56] (Normal): Projenin tıbbi geçerliliğini güvence altına almak ve klinik ihtiyaçlara uygunluğunu sağlamak amacıyla iki deneyimli kardiyolog danışman olarak süreçte yer almaktadır:
+
+[57] (Normal): Uzm. Dr. Mahsa Sedaghatıhagh (Özel Doğa Hospital Kardiyoloji Uzmanı): İran Tebriz Üniversitesi Tıp Fakültesi mezunu olup Tahran Tıp Bilimleri Üniversitesi'nde kardiyoloji uzmanlığını tamamlamıştır. 20
+
+[58] (Normal): Uzm. Dr. Asil İşçi (İSTÜN Beylikdüzü Kolan Hospital Kardiyoloji Uzmanı): Ege Üniversitesi Tıp Fakültesi mezunu olup İzmir Atatürk Eğitim ve Araştırma Hastanesi'nde kardiyoloji uzmanlığını tamamlamıştı
+
+[59] (Heading 1): 7. Kurumsal İşbirlikleri ve Proje Destekleri
+
+[60] (Normal): Kalp Krizinde Yapay Zeka Çözümleri projesi, güçlü kurumsal işbirlikleri ve destek mektupları ile desteklenmektedir. Projenin başarılı bir şekilde geliştirilmesi ve ticarileştirilmesi için hem akademik
+
+[61] (Heading 2): 7.1. Akademik Destek
+
+[62] (Normal): İstanbul Topkapı Üniversitesi: Proje, İstanbul Topkapı Üniversitesi Genel Sekreterliği tarafından verilen iyi niyet mektubu ile desteklenmektedir. Üniversite, 2025-2026 akademik yılında projenin Ar-Ge
+
+[63] (Heading 2): 7.2. Sağlık Kurumları Desteği
+
+[64] (Normal): Proje, özel sağlık kurumlarından alınan iyi niyet mektupları ile de güçlendirilmektedir:
+
+[65] (Normal): Özel Doğa Hospital: Hastane yönetimi tarafından verilen iyi niyet mektubu ile projenin klinik validasyon aşamalarında destek sunma taahhüdünde bulunulmuştur. Kardiyolog danışmanlarımızdan Uzm. Dr. Mah
+
+[66] (Normal): İSTÜN Beylikdüzü Kolan Hospital: Kardiyolog danışmanımız Uzm. Dr. Asil İşçi'nin görev yaptığı bu hastane de projeye iyi niyet mektubu ile destek vermektedir. Girişimsel kardiyoloji alanındaki deneyiml
+
+[67] (Normal): Bu kurumsal işbirlikleri ve destek mektupları, projenin hem akademik geçerliliğini hem de klinik uygulama potansiyelini güçlendirmekte, aynı zamanda ticarileşme aşamasında müşteri validasyonu için öne
+
+[68] (Heading 1): 8. İş Modeli ve Ticarileşme Stratejisi
+
+[69] (Normal): Sistem, B2B (Business to Business) odaklı bir SaaS (Software as a Service) abonelik modeli ile ticarileştirilecektir. Hastanelerin yatak kapasitelerine göre üç farklı paket sunulması planlanmaktadır:
+
+[70] (List Bullet): Temel Paket (10.000 TL/ay): 50-150 yataklı hastaneler için, EKG analizi ve temel risk değerlendirme, aylık 100 hasta analizi dahil, 150 hastane hedeflenmektedir.
+
+[71] (List Bullet): Profesyonel Paket (20.000 TL/ay): 150-400 yataklı hastaneler için, tam platform erişimi (EKG + görüntü + akıllı triyaj), aylık 250 hasta analizi dahil, sistem entegrasyonu desteği, 180 hastane hedefle
+
+[72] (List Bullet): Kurumsal Paket (35.000 TL/ay): 400+ yataklı hastaneler için, sınırsız analiz, özel arayüz, 7/24 öncelikli destek, 70 hastane hedeflenmektedir.
+
+[73] (Normal): Ek gelir kalemleri olarak entegrasyon hizmetleri (hastane başına 120.000-350.000 TL), teknisyen eğitim programları (kişi başı 6.500 TL), veri analizi hizmetleri (hastane başına 12.000-20.000 TL/ay) ve
+
+[74] (Normal): Beş yıllık finansal projeksiyona göre toplam gelir 460 milyon TL olarak öngörülmektedir. Bunun 410 milyon TL'si yazılım aboneliklerinden, 50 milyon TL'si ise ek hizmetlerden sağlanacaktır. Yıllık geli
+
+[75] (Normal): Müşteri kazanım stratejisi, ilk aşamada doğrudan satış ağırlıklı olacak, HBYS iş ortaklıkları ve grup anlaşmaları ile desteklenecektir. Ortalama satış döngüsü 5-7 ay olarak öngörülmektedir: farkındalı
+
+[76] (Heading 1): 9. Sonuç ve Beklenen Etkiler
+
+[77] (Normal): Kalp Krizinde Yapay Zeka Çözümleri projesi, kardiyovasküler hastalıkların erken tanısı ve risk yönetiminde paradigma değişikliği yaratma potansiyeline sahip yenilikçi bir teknoloji geliştirmeyi hedefl
+
+[78] (Heading 2): 7.1. Klinik Etkiler
+
+[79] (List Bullet): Tanı doğruluğunda %15-20 iyileşme
+
+[80] (List Bullet): Tanı süresinde %60 azalma (12-15 dakikadan 2-3 dakikaya)
+
+[81] (List Bullet): Gereksiz invaziv anjiyografi işlemlerinde %30-40 azalma
+
+[82] (List Bullet): Hasta güvenliğinde önemli artış
+
+[83] (List Bullet): Hekim iş yükünde rahatlama
+
+[84] (Heading 2): 7.2. Ekonomik Etkiler
+
+[85] (Normal): Sağlık kurumları için operasyonel maliyet azalması, gereksiz tetkik ve görüntüleme giderlerinde düşüş, hasta akış verimliliğinde artış sağlanacaktır. Beş yıllık dönemde 460 milyon TL ciroya ulaşma hed
+
+[86] (Heading 2): 7.3. Sosyal Etkiler
+
+[87] (Normal): Proje, Birleşmiş Milletler Sürdürülebilir Kalkınma Amaçları'ndan özellikle 3. madde olan "Sağlıklı Bireyler ve Nitelikli Yaşam" hedefine doğrudan katkı sağlayacaktır. Kardiyovasküler hastalıklara bağl
+
+[88] (Heading 2): 7.4. Teknolojik Liderlik
+
+[89] (Normal): Türkiye'nin sağlık teknolojileri alanında yerli ve özgün çözümler geliştiren bir ekosistemde yer alması, yapay zeka ve derin öğrenme alanlarında ulusal yetkinlik kazanılması, açık kaynaklı teknolojile
+
+[90] (Normal): Sonuç olarak, Kalp Krizinde Yapay Zeka Çözümleri projesi, hem teknik yenilikçiliği hem klinik geçerliliği hem de ticari sürdürülebilirliği bir araya getiren, Türkiye sağlık teknolojileri ekosisteminde
+
+[91] (Normal): BYM Technology | İstanbul, 2025
+
+--- TABLES (0) ---
